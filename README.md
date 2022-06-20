@@ -1,5 +1,7 @@
 # Dg language Homebrew Tap
 
+*WARNING, UNFINISHED FORMULA!*
+
 homebrew-fdg is a [Homebrew](http://brew.sh) tap for convenient installation and updating of [Dg](http://pyos.github.io/dg/) language.
 
 This tap contains Dg language V1.1.0
